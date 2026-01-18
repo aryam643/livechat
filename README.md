@@ -1,4 +1,4 @@
-# Spur – AI Live Chat Agent (Production-ready Take-Home)
+# AI Live Chat Agent (Production-ready Take-Home)
 
 Mini web app that simulates a customer support chat widget where an AI agent answers questions using a real LLM API.
 
